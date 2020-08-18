@@ -1,0 +1,73 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: Open Classroom XBlock\n"
+"Language: vi\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: openclassroom/openclassroom.py:46
+msgid "Display name of the component"
+msgstr "Tên hiển thị của thành phần"
+
+#: openclassroom/openclassroom.py:47
+msgid "Open Classroom lesson"
+msgstr "Bài học Open Classroom"
+
+#: openclassroom/openclassroom.py:50
+msgid "ID of the Open Classroom lesson to embed"
+msgstr "ID của bài học Open Classroom cần nhúng"
+
+#: openclassroom/openclassroom.py:54
+msgid "Source URL of the site"
+msgstr "URL máy chủ bài học"
+
+#: openclassroom/templates/openclassroom_edit.html:6
+msgid "Component Display Name"
+msgstr "Tên hiển thị của thành phần"
+
+#: openclassroom/templates/openclassroom_edit.html:9
+msgid ""
+"The name students see. This name appears in the course ribbon and as a "
+"header for the Open Classroom lesson."
+msgstr "Tên mà học sinh nhìn thấy. Tên này xuất hiện trong khóa học dưới dạng đầu đề cho bài học Open Classroom."
+
+#: openclassroom/templates/openclassroom_edit.html:13
+msgid "Open Classroom Lesson ID"
+msgstr "ID bài học Open Classroom"
+
+#: openclassroom/templates/openclassroom_edit.html:16
+#, python-format
+msgid "Example: %(example)s"
+msgstr "Ví dụ: %(example)s"
+
+#: openclassroom/templates/openclassroom_edit.html:20
+msgid "Open Classroom Lessons Server URL"
+msgstr "URL máy chủ bài học Open Classroom"
+
+#: openclassroom/templates/openclassroom_edit.html:23
+#, python-format
+msgid "Example: %(url)s"
+msgstr "Ví dụ: %(url)s"
+
+#: openclassroom/templates/openclassroom_edit.html:29
+msgid "Save"
+msgstr "Lưu"
+
+#: openclassroom/templates/openclassroom_edit.html:32
+msgid "Cancel"
+msgstr "Hủy bỏ"
+
+#: openclassroom/templates/openclassroom_preview.html:4
+msgid "This XBlock does not have an inline Studio preview."
+msgstr "XBlock này không có xem trước nội tuyến trong Studio."
+
+#: openclassroom/templates/openclassroom_preview.html:8
+#, python-format
+msgid ""
+"It is an embedded version of the Open Classroom lesson with id "
+"'%(openclassroomid)s' located at %(src)s"
+msgstr "Đây là phiên bản nhúng của bài học Open Classroom với id "
+"'%(openclassroomid)s' nằm ở %(src)s"
+

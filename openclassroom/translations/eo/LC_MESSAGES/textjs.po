@@ -1,0 +1,73 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-02 20:52+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: eo\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: openclassroom/static/js/openclassroom_player.js
+msgid "Warning: "
+msgstr "Wärnïng:  Ⱡ'σяєм ιρѕυм ∂σł#"
+
+#: openclassroom/static/js/openclassroom_player.js
+msgid ""
+"This Open Classroom lesson could not be loaded because no openclassroom-id "
+"attribute was specified in the HTML tag."
+msgstr ""
+"Thïs Öpén Çlässrööm léssön çöüld nöt ßé löädéd ßéçäüsé nö öpénçlässrööm-ïd "
+"ättrïßüté wäs spéçïfïéd ïn thé HTML täg. Ⱡ'σяєм ιρѕυм ∂σł#"
+
+#: openclassroom/static/js/openclassroom_player.js
+msgid "Load Lesson"
+msgstr "Löäd Léssön Ⱡ'σяєм ιρѕυм ∂σłσя #"
+
+#: openclassroom/static/js/openclassroom_player.js
+msgid "Open Classroom lesson"
+msgstr "Öpén Çlässrööm léssön Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, #"
+
+#: openclassroom/static/js/openclassroom_player.js
+msgid "Loading..."
+msgstr "Löädïng... Ⱡ'σяєм ιρѕυм ∂σłσ#"
+
+#: openclassroom/static/js/openclassroom_player.js
+msgid "This lesson could not be loaded."
+msgstr ""
+"Thïs léssön çöüld nöt ßé löädéd. Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢тє#"
+
+#: openclassroom/static/js/openclassroom_player.js
+msgid "Sorry about that."
+msgstr "Sörrý äßöüt thät. Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмє#"
+
+#: poll-xblock/src/xblock-utils/xblockutils/public/studio_edit.js
+msgid "Saving"
+msgstr "Sävïng Ⱡ'σяєм ιρѕυ#"
+
+#: poll-xblock/src/xblock-utils/xblockutils/public/studio_edit.js
+msgid ""
+"This may be happening because of an error with our server or your internet "
+"connection. Try refreshing the page or making sure you are online."
+msgstr ""
+"Thïs mäý ßé häppénïng ßéçäüsé öf än érrör wïth öür sérvér ör ýöür ïntérnét "
+"çönnéçtïön. Trý réfréshïng thé pägé ör mäkïng süré ýöü äré önlïné. Ⱡ'σяєм "
+"ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢тєтυя α∂ιριѕι¢ιηg єłιт, ѕє∂ ∂σ єιυѕмσ∂ тємρσя "
+"ιη¢ι∂ι∂υηт υт łαвσяє єт ∂σłσяє мαgηα αłιqυα. υт єηιм α∂ мιηιм νєηιαм, qυιѕ "
+"ησѕтяυ∂ єχєя¢ιтαтιση υłłαм¢σ łαвσяιѕ ηιѕι υт αłιqυιρ єχ єα ¢σммσ∂σ "
+"¢σηѕєqυαт. ∂υιѕ αυтє ιяυяє ∂σłσя ιη яєρяєнєη∂єяιт ιη νσłυρтαтє νєłιт єѕѕє "
+"¢ιłłυм ∂σłσяє єυ ƒυgιαт ηυłłα ραяιαтυя. єχ¢єρтєυя ѕιηт σ¢¢αє¢αт ¢υρι∂αтαт "
+"ηση ρяσι∂єηт, ѕυηт ιη ¢υłρα qυι σƒƒι¢ια ∂єѕєяυηт мσłłιт αηιм ι∂ єѕт #"
+
+#: poll-xblock/src/xblock-utils/xblockutils/public/studio_edit.js
+msgid "Unable to update settings"
+msgstr "Ûnäßlé tö üpdäté séttïngs Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕ#"

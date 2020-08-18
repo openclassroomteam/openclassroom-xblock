@@ -1,0 +1,6 @@
+# Internationalization and Localization requirements
+-e git://github.com/edx/xblock-utils.git#egg=xblock-utils
+Django==1.11
+django-statici18n==1.8.2
+Babel==1.3
+edx-i18n-tools==0.4.5

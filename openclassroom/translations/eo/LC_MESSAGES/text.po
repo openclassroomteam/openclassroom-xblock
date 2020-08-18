@@ -1,0 +1,1421 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-02 20:52+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: eo\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: openclassroom/openclassroom.py
+msgid "Display name of the component"
+msgstr "Dïspläý nämé öf thé çömpönént Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢#"
+
+#: openclassroom/openclassroom.py
+msgid "Open Classroom lesson"
+msgstr "Öpén Çlässrööm léssön Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, #"
+
+#: openclassroom/openclassroom.py
+msgid "ID of the Open Classroom lesson to embed"
+msgstr ""
+"ÌD öf thé Öpén Çlässrööm léssön tö émßéd Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, "
+"¢σηѕє¢тєтυя#"
+
+#: openclassroom/openclassroom.py
+msgid "Source URL of the site"
+msgstr "Söürçé ÛRL öf thé sïté Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢#"
+
+#: openclassroom/templates/openclassroom_edit.html
+msgid "Component Display Name"
+msgstr "Çömpönént Dïspläý Nämé Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢#"
+
+#: openclassroom/templates/openclassroom_edit.html
+msgid ""
+"The name students see. This name appears in the course ribbon and as a "
+"header for the Open Classroom lesson."
+msgstr ""
+"Thé nämé stüdénts séé. Thïs nämé äppéärs ïn thé çöürsé rïßßön änd äs ä "
+"héädér för thé Öpén Çlässrööm léssön. Ⱡ'σяєм ιρѕυм ∂σłσя ѕι#"
+
+#: openclassroom/templates/openclassroom_edit.html
+msgid "Open Classroom Lesson ID"
+msgstr "Öpén Çlässrööm Léssön ÌD Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢ση#"
+
+#: openclassroom/templates/openclassroom_edit.html
+#, python-format
+msgid "Example: %(example)s"
+msgstr "Éxämplé: %(example)s Ⱡ'σяєм ιρѕυм ∂σłσя ѕ#"
+
+#: openclassroom/templates/openclassroom_edit.html
+msgid "Open Classroom Lessons Server URL"
+msgstr ""
+"Öpén Çlässrööm Léssöns Sérvér ÛRL Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢тє#"
+
+#: openclassroom/templates/openclassroom_edit.html
+#, python-format
+msgid "Example: %(url)s"
+msgstr "Éxämplé: %(url)s Ⱡ'σяєм ιρѕυм ∂σłσя ѕ#"
+
+#: openclassroom/templates/openclassroom_edit.html
+#: poll-xblock/src/xblock-utils/xblockutils/templates/studio_edit.html
+msgid "Save"
+msgstr "Sävé Ⱡ'σяєм ι#"
+
+#: openclassroom/templates/openclassroom_edit.html
+#: poll-xblock/src/xblock-utils/xblockutils/templates/studio_edit.html
+msgid "Cancel"
+msgstr "Çänçél Ⱡ'σяєм ιρѕυ#"
+
+#: openclassroom/templates/openclassroom_preview.html
+msgid "This XBlock does not have an inline Studio preview."
+msgstr ""
+"Thïs XBlöçk döés nöt hävé än ïnlïné Stüdïö prévïéw. Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт "
+"αмєт, ¢σηѕє¢тєтυя α#"
+
+#: openclassroom/templates/openclassroom_preview.html
+#, python-format
+msgid ""
+"It is an embedded version of the Open Classroom lesson with id "
+"'%(openclassroomid)s' located at %(src)s"
+msgstr ""
+"Ìt ïs än émßéddéd vérsïön öf thé Öpén Çlässrööm léssön wïth ïd "
+"'%(openclassroomid)s' löçätéd ät %(src)s Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, "
+"¢σηѕє¢т#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/contrib/messages/apps.py
+msgid "Messages"
+msgstr "Méssägés Ⱡ'σяєм ιρѕυм ∂#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/contrib/sitemaps/apps.py
+msgid "Site Maps"
+msgstr "Sïté Mäps Ⱡ'σяєм ιρѕυм ∂σł#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/contrib/staticfiles/apps.py
+msgid "Static Files"
+msgstr "Stätïç Fïlés Ⱡ'σяєм ιρѕυм ∂σłσя ѕ#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/contrib/syndication/apps.py
+msgid "Syndication"
+msgstr "Sýndïçätïön Ⱡ'σяєм ιρѕυм ∂σłσя #"
+
+#: poll-xblock/lib/python3.6/site-packages/django/core/paginator.py
+msgid "That page number is not an integer"
+msgstr ""
+"Thät pägé nümßér ïs nöt än ïntégér Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢тєт#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/core/paginator.py
+msgid "That page number is less than 1"
+msgstr "Thät pägé nümßér ïs léss thän 1 Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢т#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/core/paginator.py
+msgid "That page contains no results"
+msgstr "Thät pägé çöntäïns nö résülts Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/core/validators.py
+msgid "Enter a valid value."
+msgstr "Éntér ä välïd välüé. Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, #"
+
+#: poll-xblock/lib/python3.6/site-packages/django/core/validators.py
+#: poll-xblock/lib/python3.6/site-packages/django/forms/fields.py
+msgid "Enter a valid URL."
+msgstr "Éntér ä välïd ÛRL. Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/core/validators.py
+msgid "Enter a valid integer."
+msgstr "Éntér ä välïd ïntégér. Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/core/validators.py
+msgid "Enter a valid email address."
+msgstr "Éntér ä välïd émäïl äddréss. Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/core/validators.py
+msgid ""
+"Enter a valid 'slug' consisting of letters, numbers, underscores or hyphens."
+msgstr ""
+"Éntér ä välïd 'slüg' çönsïstïng öf léttérs, nümßérs, ündérsçörés ör hýphéns."
+" Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢тєтυ#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/core/validators.py
+msgid ""
+"Enter a valid 'slug' consisting of Unicode letters, numbers, underscores, or"
+" hyphens."
+msgstr ""
+"Éntér ä välïd 'slüg' çönsïstïng öf Ûnïçödé léttérs, nümßérs, ündérsçörés, ör"
+" hýphéns. Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/core/validators.py
+#: poll-xblock/lib/python3.6/site-packages/django/core/validators.py
+msgid "Enter a valid IPv4 address."
+msgstr "Éntér ä välïd ÌPv4 äddréss. Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/core/validators.py
+#: poll-xblock/lib/python3.6/site-packages/django/core/validators.py
+msgid "Enter a valid IPv6 address."
+msgstr "Éntér ä välïd ÌPv6 äddréss. Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/core/validators.py
+#: poll-xblock/lib/python3.6/site-packages/django/core/validators.py
+msgid "Enter a valid IPv4 or IPv6 address."
+msgstr ""
+"Éntér ä välïd ÌPv4 ör ÌPv6 äddréss. Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢тєт#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/core/validators.py
+#: poll-xblock/lib/python3.6/site-packages/django/db/models/fields/__init__.py
+msgid "Enter only digits separated by commas."
+msgstr ""
+"Éntér önlý dïgïts sépärätéd ßý çömmäs. Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, "
+"¢σηѕє¢тєтυя#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/core/validators.py
+#, python-format
+msgid "Ensure this value is %(limit_value)s (it is %(show_value)s)."
+msgstr ""
+"Énsüré thïs välüé ïs %(limit_value)s (ït ïs %(show_value)s). Ⱡ'σяєм ιρѕυм "
+"∂σłσя ѕιт αмєт, ¢σηѕє¢тєтυ#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/core/validators.py
+#, python-format
+msgid "Ensure this value is less than or equal to %(limit_value)s."
+msgstr ""
+"Énsüré thïs välüé ïs léss thän ör éqüäl tö %(limit_value)s. Ⱡ'σяєм ιρѕυм "
+"∂σłσя ѕιт αмєт, ¢σηѕє¢тєтυя α#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/core/validators.py
+#, python-format
+msgid "Ensure this value is greater than or equal to %(limit_value)s."
+msgstr ""
+"Énsüré thïs välüé ïs gréätér thän ör éqüäl tö %(limit_value)s. Ⱡ'σяєм ιρѕυм "
+"∂σłσя ѕιт αмєт, ¢σηѕє¢тєтυя α#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/core/validators.py
+#, python-format
+msgid ""
+"Ensure this value has at least %(limit_value)d character (it has "
+"%(show_value)d)."
+msgid_plural ""
+"Ensure this value has at least %(limit_value)d characters (it has "
+"%(show_value)d)."
+msgstr[0] ""
+"Énsüré thïs välüé häs ät léäst %(limit_value)d çhäräçtér (ït häs "
+"%(show_value)d). Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢тєтυя α#"
+msgstr[1] ""
+"Énsüré thïs välüé häs ät léäst %(limit_value)d çhäräçtérs (ït häs "
+"%(show_value)d). Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢тєтυя α#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/core/validators.py
+#, python-format
+msgid ""
+"Ensure this value has at most %(limit_value)d character (it has "
+"%(show_value)d)."
+msgid_plural ""
+"Ensure this value has at most %(limit_value)d characters (it has "
+"%(show_value)d)."
+msgstr[0] ""
+"Énsüré thïs välüé häs ät möst %(limit_value)d çhäräçtér (ït häs "
+"%(show_value)d). Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢тєтυя α#"
+msgstr[1] ""
+"Énsüré thïs välüé häs ät möst %(limit_value)d çhäräçtérs (ït häs "
+"%(show_value)d). Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢тєтυя α#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/core/validators.py
+#, python-format
+msgid "Ensure that there are no more than %(max)s digit in total."
+msgid_plural "Ensure that there are no more than %(max)s digits in total."
+msgstr[0] ""
+"Énsüré thät théré äré nö möré thän %(max)s dïgït ïn tötäl. Ⱡ'σяєм ιρѕυм "
+"∂σłσя ѕιт αмєт, ¢σηѕє¢тєтυя α#"
+msgstr[1] ""
+"Énsüré thät théré äré nö möré thän %(max)s dïgïts ïn tötäl. Ⱡ'σяєм ιρѕυм "
+"∂σłσя ѕιт αмєт, ¢σηѕє¢тєтυя α#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/core/validators.py
+#, python-format
+msgid "Ensure that there are no more than %(max)s decimal place."
+msgid_plural "Ensure that there are no more than %(max)s decimal places."
+msgstr[0] ""
+"Énsüré thät théré äré nö möré thän %(max)s déçïmäl pläçé. Ⱡ'σяєм ιρѕυм ∂σłσя"
+" ѕιт αмєт, ¢σηѕє¢тєтυя α#"
+msgstr[1] ""
+"Énsüré thät théré äré nö möré thän %(max)s déçïmäl pläçés. Ⱡ'σяєм ιρѕυм "
+"∂σłσя ѕιт αмєт, ¢σηѕє¢тєтυя α#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/core/validators.py
+#, python-format
+msgid ""
+"Ensure that there are no more than %(max)s digit before the decimal point."
+msgid_plural ""
+"Ensure that there are no more than %(max)s digits before the decimal point."
+msgstr[0] ""
+"Énsüré thät théré äré nö möré thän %(max)s dïgït ßéföré thé déçïmäl pöïnt. "
+"Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢тєтυя #"
+msgstr[1] ""
+"Énsüré thät théré äré nö möré thän %(max)s dïgïts ßéföré thé déçïmäl pöïnt. "
+"Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢тєтυя#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/core/validators.py
+#, python-format
+msgid ""
+"File extension '%(extension)s' is not allowed. Allowed extensions are: "
+"'%(allowed_extensions)s'."
+msgstr ""
+"Fïlé éxténsïön '%(extension)s' ïs nöt ällöwéd. Àllöwéd éxténsïöns äré: "
+"'%(allowed_extensions)s'. Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢тєтυя #"
+
+#: poll-xblock/lib/python3.6/site-packages/django/db/models/base.py
+#: poll-xblock/lib/python3.6/site-packages/django/forms/models.py
+msgid "and"
+msgstr "änd Ⱡ'σяєм#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/db/models/base.py
+#, python-format
+msgid "%(model_name)s with this %(field_labels)s already exists."
+msgstr ""
+"%(model_name)s wïth thïs %(field_labels)s älréädý éxïsts. Ⱡ'σяєм ιρѕυм ∂σłσя"
+" ѕιт αмєт, ¢σηѕє¢тє#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/db/models/fields/__init__.py
+#, python-format
+msgid "Value %(value)r is not a valid choice."
+msgstr ""
+"Välüé %(value)r ïs nöt ä välïd çhöïçé. Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, "
+"¢σηѕє¢тє#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/db/models/fields/__init__.py
+msgid "This field cannot be null."
+msgstr "Thïs fïéld çännöt ßé nüll. Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕ#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/db/models/fields/__init__.py
+msgid "This field cannot be blank."
+msgstr "Thïs fïéld çännöt ßé ßlänk. Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/db/models/fields/__init__.py
+#, python-format
+msgid "%(model_name)s with this %(field_label)s already exists."
+msgstr ""
+"%(model_name)s wïth thïs %(field_label)s älréädý éxïsts. Ⱡ'σяєм ιρѕυм ∂σłσя "
+"ѕιт αмєт, ¢σηѕє¢тє#"
+
+#. Translators: The 'lookup_type' is one of 'date', 'year' or 'month'.
+#. Eg: "Title must be unique for pub_date year"
+#: poll-xblock/lib/python3.6/site-packages/django/db/models/fields/__init__.py
+#, python-format
+msgid ""
+"%(field_label)s must be unique for %(date_field_label)s %(lookup_type)s."
+msgstr ""
+"%(field_label)s müst ßé ünïqüé för %(date_field_label)s %(lookup_type)s. "
+"Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢т#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/db/models/fields/__init__.py
+#, python-format
+msgid "Field of type: %(field_type)s"
+msgstr "Fïéld öf týpé: %(field_type)s Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/db/models/fields/__init__.py
+#: poll-xblock/lib/python3.6/site-packages/django/db/models/fields/__init__.py
+msgid "Integer"
+msgstr "Ìntégér Ⱡ'σяєм ιρѕυм #"
+
+#: poll-xblock/lib/python3.6/site-packages/django/db/models/fields/__init__.py
+#: poll-xblock/lib/python3.6/site-packages/django/db/models/fields/__init__.py
+#, python-format
+msgid "'%(value)s' value must be an integer."
+msgstr ""
+"'%(value)s' välüé müst ßé än ïntégér. Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢т#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/db/models/fields/__init__.py
+#: poll-xblock/lib/python3.6/site-packages/django/db/models/fields/__init__.py
+msgid "Big (8 byte) integer"
+msgstr "Bïg (8 ßýté) ïntégér Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, #"
+
+#: poll-xblock/lib/python3.6/site-packages/django/db/models/fields/__init__.py
+#, python-format
+msgid "'%(value)s' value must be either True or False."
+msgstr ""
+"'%(value)s' välüé müst ßé éïthér Trüé ör Fälsé. Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт,"
+" ¢σηѕє¢тєтυя #"
+
+#: poll-xblock/lib/python3.6/site-packages/django/db/models/fields/__init__.py
+msgid "Boolean (Either True or False)"
+msgstr "Bööléän (Éïthér Trüé ör Fälsé) Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢т#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/db/models/fields/__init__.py
+#, python-format
+msgid "String (up to %(max_length)s)"
+msgstr "Strïng (üp tö %(max_length)s) Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/db/models/fields/__init__.py
+msgid "Comma-separated integers"
+msgstr "Çömmä-sépärätéd ïntégérs Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢ση#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/db/models/fields/__init__.py
+#, python-format
+msgid ""
+"'%(value)s' value has an invalid date format. It must be in YYYY-MM-DD "
+"format."
+msgstr ""
+"'%(value)s' välüé häs än ïnvälïd däté förmät. Ìt müst ßé ïn ÝÝÝÝ-MM-DD "
+"förmät. Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢тєтυя#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/db/models/fields/__init__.py
+#: poll-xblock/lib/python3.6/site-packages/django/db/models/fields/__init__.py
+#, python-format
+msgid ""
+"'%(value)s' value has the correct format (YYYY-MM-DD) but it is an invalid "
+"date."
+msgstr ""
+"'%(value)s' välüé häs thé çörréçt förmät (ÝÝÝÝ-MM-DD) ßüt ït ïs än ïnvälïd "
+"däté. Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢тєтυ#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/db/models/fields/__init__.py
+msgid "Date (without time)"
+msgstr "Däté (wïthöüt tïmé) Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт,#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/db/models/fields/__init__.py
+#, python-format
+msgid ""
+"'%(value)s' value has an invalid format. It must be in YYYY-MM-DD "
+"HH:MM[:ss[.uuuuuu]][TZ] format."
+msgstr ""
+"'%(value)s' välüé häs än ïnvälïd förmät. Ìt müst ßé ïn ÝÝÝÝ-MM-DD "
+"HH:MM[:ss[.üüüüüü]][TZ] förmät. Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢ση#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/db/models/fields/__init__.py
+#, python-format
+msgid ""
+"'%(value)s' value has the correct format (YYYY-MM-DD "
+"HH:MM[:ss[.uuuuuu]][TZ]) but it is an invalid date/time."
+msgstr ""
+"'%(value)s' välüé häs thé çörréçt förmät (ÝÝÝÝ-MM-DD "
+"HH:MM[:ss[.üüüüüü]][TZ]) ßüt ït ïs än ïnvälïd däté/tïmé. Ⱡ'σяєм ιρѕυм ∂σłσя "
+"ѕιт αм#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/db/models/fields/__init__.py
+msgid "Date (with time)"
+msgstr "Däté (wïth tïmé) Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αм#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/db/models/fields/__init__.py
+#, python-format
+msgid "'%(value)s' value must be a decimal number."
+msgstr ""
+"'%(value)s' välüé müst ßé ä déçïmäl nümßér. Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, "
+"¢σηѕє¢тєтυ#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/db/models/fields/__init__.py
+msgid "Decimal number"
+msgstr "Déçïmäl nümßér Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/db/models/fields/__init__.py
+#, python-format
+msgid ""
+"'%(value)s' value has an invalid format. It must be in [DD] "
+"[HH:[MM:]]ss[.uuuuuu] format."
+msgstr ""
+"'%(value)s' välüé häs än ïnvälïd förmät. Ìt müst ßé ïn [DD] "
+"[HH:[MM:]]ss[.üüüüüü] förmät. Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢т#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/db/models/fields/__init__.py
+msgid "Duration"
+msgstr "Dürätïön Ⱡ'σяєм ιρѕυм ∂#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/db/models/fields/__init__.py
+msgid "Email address"
+msgstr "Émäïl äddréss Ⱡ'σяєм ιρѕυм ∂σłσя ѕι#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/db/models/fields/__init__.py
+msgid "File path"
+msgstr "Fïlé päth Ⱡ'σяєм ιρѕυм ∂σł#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/db/models/fields/__init__.py
+#, python-format
+msgid "'%(value)s' value must be a float."
+msgstr ""
+"'%(value)s' välüé müst ßé ä flöät. Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/db/models/fields/__init__.py
+msgid "Floating point number"
+msgstr "Flöätïng pöïnt nümßér Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, #"
+
+#: poll-xblock/lib/python3.6/site-packages/django/db/models/fields/__init__.py
+msgid "IPv4 address"
+msgstr "ÌPv4 äddréss Ⱡ'σяєм ιρѕυм ∂σłσя ѕ#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/db/models/fields/__init__.py
+msgid "IP address"
+msgstr "ÌP äddréss Ⱡ'σяєм ιρѕυм ∂σłσ#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/db/models/fields/__init__.py
+#, python-format
+msgid "'%(value)s' value must be either None, True or False."
+msgstr ""
+"'%(value)s' välüé müst ßé éïthér Nöné, Trüé ör Fälsé. Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт"
+" αмєт, ¢σηѕє¢тєтυя α#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/db/models/fields/__init__.py
+msgid "Boolean (Either True, False or None)"
+msgstr ""
+"Bööléän (Éïthér Trüé, Fälsé ör Nöné) Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, "
+"¢σηѕє¢тєтυ#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/db/models/fields/__init__.py
+msgid "Positive integer"
+msgstr "Pösïtïvé ïntégér Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αм#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/db/models/fields/__init__.py
+msgid "Positive small integer"
+msgstr "Pösïtïvé smäll ïntégér Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/db/models/fields/__init__.py
+#, python-format
+msgid "Slug (up to %(max_length)s)"
+msgstr "Slüg (üp tö %(max_length)s) Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αм#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/db/models/fields/__init__.py
+msgid "Small integer"
+msgstr "Smäll ïntégér Ⱡ'σяєм ιρѕυм ∂σłσя ѕι#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/db/models/fields/__init__.py
+msgid "Text"
+msgstr "Téxt Ⱡ'σяєм ι#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/db/models/fields/__init__.py
+#, python-format
+msgid ""
+"'%(value)s' value has an invalid format. It must be in HH:MM[:ss[.uuuuuu]] "
+"format."
+msgstr ""
+"'%(value)s' välüé häs än ïnvälïd förmät. Ìt müst ßé ïn HH:MM[:ss[.üüüüüü]] "
+"förmät. Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢тєтυ#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/db/models/fields/__init__.py
+#, python-format
+msgid ""
+"'%(value)s' value has the correct format (HH:MM[:ss[.uuuuuu]]) but it is an "
+"invalid time."
+msgstr ""
+"'%(value)s' välüé häs thé çörréçt förmät (HH:MM[:ss[.üüüüüü]]) ßüt ït ïs än "
+"ïnvälïd tïmé. Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢т#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/db/models/fields/__init__.py
+msgid "Time"
+msgstr "Tïmé Ⱡ'σяєм ι#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/db/models/fields/__init__.py
+msgid "URL"
+msgstr "ÛRL Ⱡ'σяєм#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/db/models/fields/__init__.py
+msgid "Raw binary data"
+msgstr "Räw ßïnärý dätä Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт α#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/db/models/fields/__init__.py
+#, python-format
+msgid "'%(value)s' is not a valid UUID."
+msgstr "'%(value)s' ïs nöt ä välïd ÛÛÌD. Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕ#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/db/models/fields/files.py
+msgid "File"
+msgstr "Fïlé Ⱡ'σяєм ι#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/db/models/fields/files.py
+msgid "Image"
+msgstr "Ìmägé Ⱡ'σяєм ιρѕ#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/db/models/fields/related.py
+#, python-format
+msgid "%(model)s instance with %(field)s %(value)r does not exist."
+msgstr ""
+"%(model)s ïnstänçé wïth %(field)s %(value)r döés nöt éxïst. Ⱡ'σяєм ιρѕυм "
+"∂σłσя ѕιт αмєт, ¢σηѕє¢тєтυя #"
+
+#: poll-xblock/lib/python3.6/site-packages/django/db/models/fields/related.py
+msgid "Foreign Key (type determined by related field)"
+msgstr ""
+"Föréïgn Kéý (týpé détérmïnéd ßý rélätéd fïéld) Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, "
+"¢σηѕє¢тєтυя α#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/db/models/fields/related.py
+msgid "One-to-one relationship"
+msgstr "Öné-tö-öné rélätïönshïp Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σ#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/db/models/fields/related.py
+#, python-format
+msgid "%(from)s-%(to)s relationship"
+msgstr "%(from)s-%(to)s rélätïönshïp Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, #"
+
+#: poll-xblock/lib/python3.6/site-packages/django/db/models/fields/related.py
+#, python-format
+msgid "%(from)s-%(to)s relationships"
+msgstr "%(from)s-%(to)s rélätïönshïps Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, #"
+
+#: poll-xblock/lib/python3.6/site-packages/django/db/models/fields/related.py
+msgid "Many-to-many relationship"
+msgstr "Mäný-tö-mäný rélätïönshïp Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕ#"
+
+#. Translators: If found as last label character, these punctuation
+#. characters will prevent the default label_suffix to be appended to the
+#. label
+#: poll-xblock/lib/python3.6/site-packages/django/forms/boundfield.py
+msgid ":?.!"
+msgstr ":?.! Ⱡ'σяєм ι#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/forms/fields.py
+msgid "This field is required."
+msgstr "Thïs fïéld ïs réqüïréd. Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σ#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/forms/fields.py
+msgid "Enter a whole number."
+msgstr "Éntér ä whölé nümßér. Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, #"
+
+#: poll-xblock/lib/python3.6/site-packages/django/forms/fields.py
+#: poll-xblock/lib/python3.6/site-packages/django/forms/fields.py
+msgid "Enter a number."
+msgstr "Éntér ä nümßér. Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт α#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/forms/fields.py
+#: poll-xblock/lib/python3.6/site-packages/django/forms/fields.py
+msgid "Enter a valid date."
+msgstr "Éntér ä välïd däté. Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт,#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/forms/fields.py
+#: poll-xblock/lib/python3.6/site-packages/django/forms/fields.py
+msgid "Enter a valid time."
+msgstr "Éntér ä välïd tïmé. Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт,#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/forms/fields.py
+msgid "Enter a valid date/time."
+msgstr "Éntér ä välïd däté/tïmé. Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢ση#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/forms/fields.py
+msgid "Enter a valid duration."
+msgstr "Éntér ä välïd dürätïön. Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σ#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/forms/fields.py
+msgid "No file was submitted. Check the encoding type on the form."
+msgstr ""
+"Nö fïlé wäs süßmïttéd. Çhéçk thé énçödïng týpé ön thé förm. Ⱡ'σяєм ιρѕυм "
+"∂σłσя ѕιт αмєт, ¢σηѕє¢тєтυя α#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/forms/fields.py
+msgid "No file was submitted."
+msgstr "Nö fïlé wäs süßmïttéd. Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/forms/fields.py
+msgid "The submitted file is empty."
+msgstr "Thé süßmïttéd fïlé ïs émptý. Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/forms/fields.py
+#, python-format
+msgid ""
+"Ensure this filename has at most %(max)d character (it has %(length)d)."
+msgid_plural ""
+"Ensure this filename has at most %(max)d characters (it has %(length)d)."
+msgstr[0] ""
+"Énsüré thïs fïlénämé häs ät möst %(max)d çhäräçtér (ït häs %(length)d). "
+"Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢тєтυя α#"
+msgstr[1] ""
+"Énsüré thïs fïlénämé häs ät möst %(max)d çhäräçtérs (ït häs %(length)d). "
+"Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢тєтυя α#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/forms/fields.py
+msgid "Please either submit a file or check the clear checkbox, not both."
+msgstr ""
+"Pléäsé éïthér süßmït ä fïlé ör çhéçk thé çléär çhéçkßöx, nöt ßöth. Ⱡ'σяєм "
+"ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢тєтυя #"
+
+#: poll-xblock/lib/python3.6/site-packages/django/forms/fields.py
+msgid ""
+"Upload a valid image. The file you uploaded was either not an image or a "
+"corrupted image."
+msgstr ""
+"Ûplöäd ä välïd ïmägé. Thé fïlé ýöü üplöädéd wäs éïthér nöt än ïmägé ör ä "
+"çörrüptéd ïmägé. Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕ#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/forms/fields.py
+#: poll-xblock/lib/python3.6/site-packages/django/forms/fields.py
+#: poll-xblock/lib/python3.6/site-packages/django/forms/models.py
+#, python-format
+msgid "Select a valid choice. %(value)s is not one of the available choices."
+msgstr ""
+"Séléçt ä välïd çhöïçé. %(value)s ïs nöt öné öf thé äväïläßlé çhöïçés. Ⱡ'σяєм"
+" ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢тєтυя α#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/forms/fields.py
+#: poll-xblock/lib/python3.6/site-packages/django/forms/fields.py
+#: poll-xblock/lib/python3.6/site-packages/django/forms/models.py
+msgid "Enter a list of values."
+msgstr "Éntér ä lïst öf välüés. Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σ#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/forms/fields.py
+msgid "Enter a complete value."
+msgstr "Éntér ä çömplété välüé. Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σ#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/forms/fields.py
+msgid "Enter a valid UUID."
+msgstr "Éntér ä välïd ÛÛÌD. Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт,#"
+
+#. Translators: This is the default suffix added to form field labels
+#: poll-xblock/lib/python3.6/site-packages/django/forms/forms.py
+msgid ":"
+msgstr ": Ⱡ#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/forms/forms.py
+#, python-format
+msgid "(Hidden field %(name)s) %(error)s"
+msgstr "(Hïddén fïéld %(name)s) %(error)s Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/forms/formsets.py
+msgid "ManagementForm data is missing or has been tampered with"
+msgstr ""
+"MänägéméntFörm dätä ïs mïssïng ör häs ßéén tämpéréd wïth Ⱡ'σяєм ιρѕυм ∂σłσя "
+"ѕιт αмєт, ¢σηѕє¢тєтυя α#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/forms/formsets.py
+#, python-format
+msgid "Please submit %d or fewer forms."
+msgid_plural "Please submit %d or fewer forms."
+msgstr[0] ""
+"Pléäsé süßmït %d ör féwér förms. Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢тє#"
+msgstr[1] ""
+"Pléäsé süßmït %d ör féwér förms. Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢тє#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/forms/formsets.py
+#, python-format
+msgid "Please submit %d or more forms."
+msgid_plural "Please submit %d or more forms."
+msgstr[0] ""
+"Pléäsé süßmït %d ör möré förms. Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢тє#"
+msgstr[1] ""
+"Pléäsé süßmït %d ör möré förms. Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢тє#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/forms/formsets.py
+#: poll-xblock/lib/python3.6/site-packages/django/forms/formsets.py
+msgid "Order"
+msgstr "Ördér Ⱡ'σяєм ιρѕ#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/forms/formsets.py
+msgid "Delete"
+msgstr "Délété Ⱡ'σяєм ιρѕυ#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/forms/models.py
+#, python-format
+msgid "Please correct the duplicate data for %(field)s."
+msgstr ""
+"Pléäsé çörréçt thé düplïçäté dätä för %(field)s. Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт "
+"αмєт, ¢σηѕє¢тєтυя #"
+
+#: poll-xblock/lib/python3.6/site-packages/django/forms/models.py
+#, python-format
+msgid "Please correct the duplicate data for %(field)s, which must be unique."
+msgstr ""
+"Pléäsé çörréçt thé düplïçäté dätä för %(field)s, whïçh müst ßé ünïqüé. "
+"Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢тєтυя α#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/forms/models.py
+#, python-format
+msgid ""
+"Please correct the duplicate data for %(field_name)s which must be unique "
+"for the %(lookup)s in %(date_field)s."
+msgstr ""
+"Pléäsé çörréçt thé düplïçäté dätä för %(field_name)s whïçh müst ßé ünïqüé "
+"för thé %(lookup)s ïn %(date_field)s. Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢тє#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/forms/models.py
+msgid "Please correct the duplicate values below."
+msgstr ""
+"Pléäsé çörréçt thé düplïçäté välüés ßélöw. Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, "
+"¢σηѕє¢тєтυя #"
+
+#: poll-xblock/lib/python3.6/site-packages/django/forms/models.py
+msgid "The inline foreign key did not match the parent instance primary key."
+msgstr ""
+"Thé ïnlïné föréïgn kéý dïd nöt mätçh thé pärént ïnstänçé prïmärý kéý. Ⱡ'σяєм"
+" ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢тєтυя #"
+
+#: poll-xblock/lib/python3.6/site-packages/django/forms/models.py
+msgid ""
+"Select a valid choice. That choice is not one of the available choices."
+msgstr ""
+"Séléçt ä välïd çhöïçé. Thät çhöïçé ïs nöt öné öf thé äväïläßlé çhöïçés. "
+"Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢тєтυя#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/forms/models.py
+#, python-format
+msgid "\"%(pk)s\" is not a valid value for a primary key."
+msgstr ""
+"\"%(pk)s\" ïs nöt ä välïd välüé för ä prïmärý kéý. Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт "
+"αмєт, ¢σηѕє¢тєтυя #"
+
+#: poll-xblock/lib/python3.6/site-packages/django/forms/utils.py
+#, python-format
+msgid ""
+"%(datetime)s couldn't be interpreted in time zone %(current_timezone)s; it "
+"may be ambiguous or it may not exist."
+msgstr ""
+"%(datetime)s çöüldn't ßé ïntérprétéd ïn tïmé zöné %(current_timezone)s; ït "
+"mäý ßé ämßïgüöüs ör ït mäý nöt éxïst. Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/forms/widgets.py
+#: poll-xblock/src/xblock-utils/xblockutils/templates/studio_edit.html
+msgid "Clear"
+msgstr "Çléär Ⱡ'σяєм ιρѕ#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/forms/widgets.py
+msgid "Currently"
+msgstr "Çürréntlý Ⱡ'σяєм ιρѕυм ∂σł#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/forms/widgets.py
+msgid "Change"
+msgstr "Çhängé Ⱡ'σяєм ιρѕυ#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/forms/widgets.py
+msgid "Unknown"
+msgstr "Ûnknöwn Ⱡ'σяєм ιρѕυм #"
+
+#: poll-xblock/lib/python3.6/site-packages/django/forms/widgets.py
+msgid "Yes"
+msgstr "Ýés Ⱡ'σяєм#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/forms/widgets.py
+msgid "No"
+msgstr "Nö Ⱡ'σя#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/template/defaultfilters.py
+msgid "yes,no,maybe"
+msgstr "ýés,nö,mäýßé Ⱡ'σяєм ιρѕυм ∂σłσя ѕ#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/template/defaultfilters.py
+#: poll-xblock/lib/python3.6/site-packages/django/template/defaultfilters.py
+#, python-format
+msgid "%(size)d byte"
+msgid_plural "%(size)d bytes"
+msgstr[0] "%(size)d ßýté Ⱡ'σяєм ιρѕυм ∂#"
+msgstr[1] "%(size)d ßýtés Ⱡ'σяєм ιρѕυм ∂σł#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/template/defaultfilters.py
+#, python-format
+msgid "%s KB"
+msgstr "%s KB Ⱡ'σяєм ιρѕυ#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/template/defaultfilters.py
+#, python-format
+msgid "%s MB"
+msgstr "%s MB Ⱡ'σяєм ιρѕυ#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/template/defaultfilters.py
+#, python-format
+msgid "%s GB"
+msgstr "%s GB Ⱡ'σяєм ιρѕυ#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/template/defaultfilters.py
+#, python-format
+msgid "%s TB"
+msgstr "%s TB Ⱡ'σяєм ιρѕυ#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/template/defaultfilters.py
+#, python-format
+msgid "%s PB"
+msgstr "%s PB Ⱡ'σяєм ιρѕυ#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/utils/dateformat.py
+msgid "p.m."
+msgstr "p.m. Ⱡ'σяєм ι#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/utils/dateformat.py
+msgid "a.m."
+msgstr "ä.m. Ⱡ'σяєм ι#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/utils/dateformat.py
+msgid "PM"
+msgstr "PM Ⱡ'σя#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/utils/dateformat.py
+msgid "AM"
+msgstr "ÀM Ⱡ'σя#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/utils/dateformat.py
+msgid "midnight"
+msgstr "mïdnïght Ⱡ'σяєм ιρѕυм ∂#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/utils/dateformat.py
+msgid "noon"
+msgstr "nöön Ⱡ'σяєм ι#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/utils/dates.py
+msgid "Monday"
+msgstr "Möndäý Ⱡ'σяєм ιρѕυ#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/utils/dates.py
+msgid "Tuesday"
+msgstr "Tüésdäý Ⱡ'σяєм ιρѕυм #"
+
+#: poll-xblock/lib/python3.6/site-packages/django/utils/dates.py
+msgid "Wednesday"
+msgstr "Wédnésdäý Ⱡ'σяєм ιρѕυм ∂σł#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/utils/dates.py
+msgid "Thursday"
+msgstr "Thürsdäý Ⱡ'σяєм ιρѕυм ∂#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/utils/dates.py
+msgid "Friday"
+msgstr "Frïdäý Ⱡ'σяєм ιρѕυ#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/utils/dates.py
+msgid "Saturday"
+msgstr "Sätürdäý Ⱡ'σяєм ιρѕυм ∂#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/utils/dates.py
+msgid "Sunday"
+msgstr "Sündäý Ⱡ'σяєм ιρѕυ#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/utils/dates.py
+msgid "Mon"
+msgstr "Mön Ⱡ'σяєм#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/utils/dates.py
+msgid "Tue"
+msgstr "Tüé Ⱡ'σяєм#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/utils/dates.py
+msgid "Wed"
+msgstr "Wéd Ⱡ'σяєм#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/utils/dates.py
+msgid "Thu"
+msgstr "Thü Ⱡ'σяєм#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/utils/dates.py
+msgid "Fri"
+msgstr "Frï Ⱡ'σяєм#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/utils/dates.py
+msgid "Sat"
+msgstr "Sät Ⱡ'σяєм#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/utils/dates.py
+msgid "Sun"
+msgstr "Sün Ⱡ'σяєм#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/utils/dates.py
+msgid "January"
+msgstr "Jänüärý Ⱡ'σяєм ιρѕυм #"
+
+#: poll-xblock/lib/python3.6/site-packages/django/utils/dates.py
+msgid "February"
+msgstr "Féßrüärý Ⱡ'σяєм ιρѕυм ∂#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/utils/dates.py
+msgid "March"
+msgstr "Märçh Ⱡ'σяєм ιρѕ#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/utils/dates.py
+msgid "April"
+msgstr "Àprïl Ⱡ'σяєм ιρѕ#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/utils/dates.py
+msgid "May"
+msgstr "Mäý Ⱡ'σяєм#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/utils/dates.py
+msgid "June"
+msgstr "Jüné Ⱡ'σяєм ι#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/utils/dates.py
+msgid "July"
+msgstr "Jülý Ⱡ'σяєм ι#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/utils/dates.py
+msgid "August"
+msgstr "Àügüst Ⱡ'σяєм ιρѕυ#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/utils/dates.py
+msgid "September"
+msgstr "Séptémßér Ⱡ'σяєм ιρѕυм ∂σł#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/utils/dates.py
+msgid "October"
+msgstr "Öçtößér Ⱡ'σяєм ιρѕυм #"
+
+#: poll-xblock/lib/python3.6/site-packages/django/utils/dates.py
+msgid "November"
+msgstr "Növémßér Ⱡ'σяєм ιρѕυм ∂#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/utils/dates.py
+msgid "December"
+msgstr "Déçémßér Ⱡ'σяєм ιρѕυм ∂#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/utils/dates.py
+msgid "jan"
+msgstr "jän Ⱡ'σяєм#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/utils/dates.py
+msgid "feb"
+msgstr "féß Ⱡ'σяєм#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/utils/dates.py
+msgid "mar"
+msgstr "mär Ⱡ'σяєм#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/utils/dates.py
+msgid "apr"
+msgstr "äpr Ⱡ'σяєм#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/utils/dates.py
+msgid "may"
+msgstr "mäý Ⱡ'σяєм#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/utils/dates.py
+msgid "jun"
+msgstr "jün Ⱡ'σяєм#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/utils/dates.py
+msgid "jul"
+msgstr "jül Ⱡ'σяєм#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/utils/dates.py
+msgid "aug"
+msgstr "äüg Ⱡ'σяєм#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/utils/dates.py
+msgid "sep"
+msgstr "sép Ⱡ'σяєм#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/utils/dates.py
+msgid "oct"
+msgstr "öçt Ⱡ'σяєм#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/utils/dates.py
+msgid "nov"
+msgstr "növ Ⱡ'σяєм#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/utils/dates.py
+msgid "dec"
+msgstr "déç Ⱡ'σяєм#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/utils/dates.py
+msgctxt "abbrev. month"
+msgid "Jan."
+msgstr "Jän. Ⱡ'σяєм ι#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/utils/dates.py
+msgctxt "abbrev. month"
+msgid "Feb."
+msgstr "Féß. Ⱡ'σяєм ι#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/utils/dates.py
+msgctxt "abbrev. month"
+msgid "March"
+msgstr "Märçh Ⱡ'σяєм ιρѕ#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/utils/dates.py
+msgctxt "abbrev. month"
+msgid "April"
+msgstr "Àprïl Ⱡ'σяєм ιρѕ#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/utils/dates.py
+msgctxt "abbrev. month"
+msgid "May"
+msgstr "Mäý Ⱡ'σяєм#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/utils/dates.py
+msgctxt "abbrev. month"
+msgid "June"
+msgstr "Jüné Ⱡ'σяєм ι#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/utils/dates.py
+msgctxt "abbrev. month"
+msgid "July"
+msgstr "Jülý Ⱡ'σяєм ι#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/utils/dates.py
+msgctxt "abbrev. month"
+msgid "Aug."
+msgstr "Àüg. Ⱡ'σяєм ι#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/utils/dates.py
+msgctxt "abbrev. month"
+msgid "Sept."
+msgstr "Sépt. Ⱡ'σяєм ιρѕ#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/utils/dates.py
+msgctxt "abbrev. month"
+msgid "Oct."
+msgstr "Öçt. Ⱡ'σяєм ι#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/utils/dates.py
+msgctxt "abbrev. month"
+msgid "Nov."
+msgstr "Növ. Ⱡ'σяєм ι#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/utils/dates.py
+msgctxt "abbrev. month"
+msgid "Dec."
+msgstr "Déç. Ⱡ'σяєм ι#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/utils/dates.py
+msgctxt "alt. month"
+msgid "January"
+msgstr "Jänüärý Ⱡ'σяєм ιρѕυм #"
+
+#: poll-xblock/lib/python3.6/site-packages/django/utils/dates.py
+msgctxt "alt. month"
+msgid "February"
+msgstr "Féßrüärý Ⱡ'σяєм ιρѕυм ∂#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/utils/dates.py
+msgctxt "alt. month"
+msgid "March"
+msgstr "Märçh Ⱡ'σяєм ιρѕ#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/utils/dates.py
+msgctxt "alt. month"
+msgid "April"
+msgstr "Àprïl Ⱡ'σяєм ιρѕ#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/utils/dates.py
+msgctxt "alt. month"
+msgid "May"
+msgstr "Mäý Ⱡ'σяєм#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/utils/dates.py
+msgctxt "alt. month"
+msgid "June"
+msgstr "Jüné Ⱡ'σяєм ι#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/utils/dates.py
+msgctxt "alt. month"
+msgid "July"
+msgstr "Jülý Ⱡ'σяєм ι#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/utils/dates.py
+msgctxt "alt. month"
+msgid "August"
+msgstr "Àügüst Ⱡ'σяєм ιρѕυ#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/utils/dates.py
+msgctxt "alt. month"
+msgid "September"
+msgstr "Séptémßér Ⱡ'σяєм ιρѕυм ∂σł#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/utils/dates.py
+msgctxt "alt. month"
+msgid "October"
+msgstr "Öçtößér Ⱡ'σяєм ιρѕυм #"
+
+#: poll-xblock/lib/python3.6/site-packages/django/utils/dates.py
+msgctxt "alt. month"
+msgid "November"
+msgstr "Növémßér Ⱡ'σяєм ιρѕυм ∂#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/utils/dates.py
+msgctxt "alt. month"
+msgid "December"
+msgstr "Déçémßér Ⱡ'σяєм ιρѕυм ∂#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/utils/ipv6.py
+msgid "This is not a valid IPv6 address."
+msgstr ""
+"Thïs ïs nöt ä välïd ÌPv6 äddréss. Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢тє#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/utils/text.py
+#, python-format
+msgctxt "String to return when truncating text"
+msgid "%(truncated_text)s..."
+msgstr "%(truncated_text)s... Ⱡ'σяєм ιρѕυ#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/utils/text.py
+msgid "or"
+msgstr "ör Ⱡ'σя#"
+
+#. Translators: This string is used as a separator between list elements
+#: poll-xblock/lib/python3.6/site-packages/django/utils/text.py
+#: poll-xblock/lib/python3.6/site-packages/django/utils/timesince.py
+msgid ", "
+msgstr ",  Ⱡ'σя#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/utils/timesince.py
+#, python-format
+msgid "%d year"
+msgid_plural "%d years"
+msgstr[0] "%d ýéär Ⱡ'σяєм ιρѕυм ∂#"
+msgstr[1] "%d ýéärs Ⱡ'σяєм ιρѕυм ∂σł#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/utils/timesince.py
+#, python-format
+msgid "%d month"
+msgid_plural "%d months"
+msgstr[0] "%d mönth Ⱡ'σяєм ιρѕυм ∂σł#"
+msgstr[1] "%d mönths Ⱡ'σяєм ιρѕυм ∂σłσ#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/utils/timesince.py
+#, python-format
+msgid "%d week"
+msgid_plural "%d weeks"
+msgstr[0] "%d wéék Ⱡ'σяєм ιρѕυм ∂#"
+msgstr[1] "%d wééks Ⱡ'σяєм ιρѕυм ∂σł#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/utils/timesince.py
+#, python-format
+msgid "%d day"
+msgid_plural "%d days"
+msgstr[0] "%d däý Ⱡ'σяєм ιρѕυм #"
+msgstr[1] "%d däýs Ⱡ'σяєм ιρѕυм ∂#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/utils/timesince.py
+#, python-format
+msgid "%d hour"
+msgid_plural "%d hours"
+msgstr[0] "%d höür Ⱡ'σяєм ιρѕυм ∂#"
+msgstr[1] "%d höürs Ⱡ'σяєм ιρѕυм ∂σł#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/utils/timesince.py
+#, python-format
+msgid "%d minute"
+msgid_plural "%d minutes"
+msgstr[0] "%d mïnüté Ⱡ'σяєм ιρѕυм ∂σłσ#"
+msgstr[1] "%d mïnütés Ⱡ'σяєм ιρѕυм ∂σłσя #"
+
+#: poll-xblock/lib/python3.6/site-packages/django/utils/timesince.py
+msgid "0 minutes"
+msgstr "0 mïnütés Ⱡ'σяєм ιρѕυм ∂σł#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/views/csrf.py
+msgid "Forbidden"
+msgstr "Förßïddén Ⱡ'σяєм ιρѕυм ∂σł#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/views/csrf.py
+msgid "CSRF verification failed. Request aborted."
+msgstr ""
+"ÇSRF vérïfïçätïön fäïléd. Réqüést äßörtéd. Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, "
+"¢σηѕє¢тєтυя #"
+
+#: poll-xblock/lib/python3.6/site-packages/django/views/csrf.py
+msgid ""
+"You are seeing this message because this HTTPS site requires a 'Referer "
+"header' to be sent by your Web browser, but none was sent. This header is "
+"required for security reasons, to ensure that your browser is not being "
+"hijacked by third parties."
+msgstr ""
+"Ýöü äré sééïng thïs méssägé ßéçäüsé thïs HTTPS sïté réqüïrés ä 'Référér "
+"héädér' tö ßé sént ßý ýöür Wéß ßröwsér, ßüt nöné wäs sént. Thïs héädér ïs "
+"réqüïréd för séçürïtý réäsöns, tö énsüré thät ýöür ßröwsér ïs nöt ßéïng "
+"hïjäçkéd ßý thïrd pärtïés. Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢тєтυя "
+"α∂ιριѕι¢ιηg єłιт, ѕє∂ ∂σ єιυѕмσ∂ тємρσя ιη¢ι∂ι∂υηт υт łαвσяє єт ∂σłσяє мαgηα"
+" αłιqυα. υт єηιм α∂ мιηιм νєηιαм, qυιѕ ησѕтяυ∂ єχєя¢ιтαтιση υłłαм¢σ łαвσяιѕ "
+"ηιѕι υт αłιqυιρ єχ єα ¢σммσ∂σ ¢σηѕєqυαт. ∂υιѕ αυтє ιяυяє ∂σłσя ιη "
+"яєρяєнєη∂єяιт ιη νσłυρтαтє#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/views/csrf.py
+msgid ""
+"If you have configured your browser to disable 'Referer' headers, please re-"
+"enable them, at least for this site, or for HTTPS connections, or for 'same-"
+"origin' requests."
+msgstr ""
+"Ìf ýöü hävé çönfïgüréd ýöür ßröwsér tö dïsäßlé 'Référér' héädérs, pléäsé ré-"
+"énäßlé thém, ät léäst för thïs sïté, ör för HTTPS çönnéçtïöns, ör för 'sämé-"
+"örïgïn' réqüésts. Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢тєтυя α∂ιριѕι¢ιηg єłιт,"
+" ѕє∂ ∂σ єιυѕмσ∂ тємρσя ιη¢ι∂ι∂υηт υт łαвσяє єт ∂σłσяє мαgηα αłιqυα. υт єηιм "
+"α∂ мιηιм νєηιαм, qυιѕ ησѕтяυ∂ єχєя¢ιтαтιση υłłαм¢σ łαвσяιѕ ηιѕι υт αłιqυιρ "
+"єχ єα ¢σммσ∂σ ¢σηѕєqυαт. ∂υιѕ αυтє ιяυяє ∂σłσя ιη яєρяєнєη∂єяιт ιη νσłυρтαтє"
+" νєłιт єѕѕє ¢ιłłυм ∂σłσяє єυ ƒυgιαт ηυłłα ραяιαтυя. єχ¢єρтєυя ѕιηт σ¢¢αє¢αт "
+"¢υρι∂αтαт ηση ρяσι∂єηт, ѕυηт ιη ¢υłρα qυι σƒ#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/views/csrf.py
+msgid ""
+"You are seeing this message because this site requires a CSRF cookie when "
+"submitting forms. This cookie is required for security reasons, to ensure "
+"that your browser is not being hijacked by third parties."
+msgstr ""
+"Ýöü äré sééïng thïs méssägé ßéçäüsé thïs sïté réqüïrés ä ÇSRF çöökïé whén "
+"süßmïttïng förms. Thïs çöökïé ïs réqüïréd för séçürïtý réäsöns, tö énsüré "
+"thät ýöür ßröwsér ïs nöt ßéïng hïjäçkéd ßý thïrd pärtïés. Ⱡ'σяєм ιρѕυм ∂σłσя"
+" ѕιт αмєт, ¢σηѕє¢тєтυя α∂ιριѕι¢ιηg єłιт, ѕє∂ ∂σ єιυѕмσ∂ тємρσя ιη¢ι∂ι∂υηт υт"
+" łαвσяє єт ∂σłσяє мαgηα αłιqυα. υт єηιм α∂ мιηιм νєηιαм, qυιѕ ησѕтяυ∂ "
+"єχєя¢ιтαтιση υłłαм¢σ łαвσяιѕ ηιѕι υт αłιqυιρ єχ єα ¢σммσ∂σ ¢σηѕєqυαт. ∂υιѕ "
+"αυтє ιяυяє ∂σłσя ιη яєρяєнєη∂єяιт ιη νσłυρтαтє νєłιт єѕѕє ¢ιłłυм ∂σłσяє єυ "
+"ƒυgιαт ηυłłα ραяιαтυя. єχ¢єρтєυя ѕιηт #"
+
+#: poll-xblock/lib/python3.6/site-packages/django/views/csrf.py
+msgid ""
+"If you have configured your browser to disable cookies, please re-enable "
+"them, at least for this site, or for 'same-origin' requests."
+msgstr ""
+"Ìf ýöü hävé çönfïgüréd ýöür ßröwsér tö dïsäßlé çöökïés, pléäsé ré-énäßlé "
+"thém, ät léäst för thïs sïté, ör för 'sämé-örïgïn' réqüésts.#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/views/csrf.py
+msgid "More information is available with DEBUG=True."
+msgstr ""
+"Möré ïnförmätïön ïs äväïläßlé wïth DÉBÛG=Trüé. Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, "
+"¢σηѕє¢тєтυя α#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/views/debug.py
+msgid "Welcome to Django"
+msgstr "Wélçömé tö Djängö Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмє#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/views/debug.py
+msgid "It worked!"
+msgstr "Ìt wörkéd! Ⱡ'σяєм ιρѕυм ∂σłσ#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/views/debug.py
+msgid "Congratulations on your first Django-powered page."
+msgstr ""
+"Çöngrätülätïöns ön ýöür fïrst Djängö-pöwéréd pägé. Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт "
+"αмєт, ¢σηѕє¢тєтυя α#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/views/debug.py
+msgid ""
+"Next, start your first app by running <code>python manage.py startapp "
+"[app_label]</code>."
+msgstr ""
+"Néxt, stärt ýöür fïrst äpp ßý rünnïng <code>pýthön mänägé.pý stärtäpp "
+"[äpp_läßél]</code>. Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢тє#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/views/debug.py
+msgid ""
+"You're seeing this message because you have <code>DEBUG = True</code> in "
+"your Django settings file and you haven't configured any URLs. Get to work!"
+msgstr ""
+"Ýöü'ré sééïng thïs méssägé ßéçäüsé ýöü hävé <code>DÉBÛG = Trüé</code> ïn "
+"ýöür Djängö séttïngs fïlé änd ýöü hävén't çönfïgüréd äný ÛRLs. Gét tö wörk! "
+"Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢тєтυя α∂ιριѕι¢ιηg єłιт, ѕє∂ ∂σ єιυѕмσ∂ "
+"тємρσя ιη¢ι∂ι∂υηт υт łαвσяє єт ∂σłσяє мαgηα αłιqυα. υт єηιм α∂ мιηιм νєηιαм,"
+" qυιѕ ησѕтяυ∂ єχєя¢ιтαтιση υłłαм¢σ łαвσяιѕ ηιѕι υт αłιqυιρ єχ єα ¢σммσ∂σ "
+"¢σηѕєqυαт. ∂υιѕ αυтє ιяυяє ∂σłσя ιη яєρяєнєη∂єяιт ιη νσłυρтαтє νєłιт єѕѕє "
+"¢ιłłυм ∂σłσяє єυ ƒυgιαт ηυłłα ραяιαтυя. єχ¢єρтєυя ѕιηт σ¢¢αє¢αт ¢υρι∂αтαт "
+"ηση ρяσι∂єηт, ѕυηт ιη ¢υłρα qυι σƒƒι¢ια ∂єѕєяυηт мσłłιт αηιм ι∂ єѕт #"
+
+#: poll-xblock/lib/python3.6/site-packages/django/views/generic/dates.py
+msgid "No year specified"
+msgstr "Nö ýéär spéçïfïéd Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмє#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/views/generic/dates.py
+msgid "No month specified"
+msgstr "Nö mönth spéçïfïéd Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/views/generic/dates.py
+msgid "No day specified"
+msgstr "Nö däý spéçïfïéd Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αм#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/views/generic/dates.py
+msgid "No week specified"
+msgstr "Nö wéék spéçïfïéd Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмє#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/views/generic/dates.py
+#: poll-xblock/lib/python3.6/site-packages/django/views/generic/dates.py
+#, python-format
+msgid "No %(verbose_name_plural)s available"
+msgstr "Nö %(verbose_name_plural)s äväïläßlé Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αм#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/views/generic/dates.py
+#, python-format
+msgid ""
+"Future %(verbose_name_plural)s not available because "
+"%(class_name)s.allow_future is False."
+msgstr ""
+"Fütüré %(verbose_name_plural)s nöt äväïläßlé ßéçäüsé "
+"%(class_name)s.ällöw_fütüré ïs Fälsé. Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, "
+"¢σηѕє¢тєтυя α#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/views/generic/dates.py
+#, python-format
+msgid "Invalid date string '%(datestr)s' given format '%(format)s'"
+msgstr ""
+"Ìnvälïd däté strïng '%(datestr)s' gïvén förmät '%(format)s' Ⱡ'σяєм ιρѕυм "
+"∂σłσя ѕιт αмєт, ¢σηѕє¢тєтυя #"
+
+#: poll-xblock/lib/python3.6/site-packages/django/views/generic/detail.py
+#, python-format
+msgid "No %(verbose_name)s found matching the query"
+msgstr ""
+"Nö %(verbose_name)s föünd mätçhïng thé qüérý Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, "
+"¢σηѕє¢т#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/views/generic/list.py
+msgid "Page is not 'last', nor can it be converted to an int."
+msgstr ""
+"Pägé ïs nöt 'läst', nör çän ït ßé çönvértéd tö än ïnt. Ⱡ'σяєм ιρѕυм ∂σłσя "
+"ѕιт αмєт, ¢σηѕє¢тєтυя α#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/views/generic/list.py
+#, python-format
+msgid "Invalid page (%(page_number)s): %(message)s"
+msgstr ""
+"Ìnvälïd pägé (%(page_number)s): %(message)s Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σ#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/views/generic/list.py
+#, python-format
+msgid "Empty list and '%(class_name)s.allow_empty' is False."
+msgstr ""
+"Émptý lïst änd '%(class_name)s.ällöw_émptý' ïs Fälsé. Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт"
+" αмєт, ¢σηѕє¢тєтυя #"
+
+#: poll-xblock/lib/python3.6/site-packages/django/views/static.py
+msgid "Directory indexes are not allowed here."
+msgstr ""
+"Dïréçtörý ïndéxés äré nöt ällöwéd héré. Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, "
+"¢σηѕє¢тєтυя#"
+
+#: poll-xblock/lib/python3.6/site-packages/django/views/static.py
+#, python-format
+msgid "\"%(path)s\" does not exist"
+msgstr "\"%(path)s\" döés nöt éxïst Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, #"
+
+#: poll-xblock/lib/python3.6/site-packages/django/views/static.py
+#, python-format
+msgid "Index of %(directory)s"
+msgstr "Ìndéx öf %(directory)s Ⱡ'σяєм ιρѕυм ∂σłσя ѕ#"
+
+#: poll-xblock/lib/python3.6/site-packages/xblock/scorable.py
+msgid "Problem does not support rescoring: {}"
+msgstr ""
+"Prößlém döés nöt süppört résçörïng: {} Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, "
+"¢σηѕє¢тєтυя#"
+
+#: poll-xblock/lib/python3.6/site-packages/xblock/scorable.py
+msgid "Cannot rescore unanswered problem: {}"
+msgstr ""
+"Çännöt résçöré ünänswéréd prößlém: {} Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, "
+"¢σηѕє¢тєтυ#"
+
+#: poll-xblock/src/xblock-utils/tests/unit/data/trans_django_template.txt
+msgid "Translate 1"
+msgstr "Tränsläté 1 Ⱡ'σяєм ιρѕυм ∂σłσя #"
+
+#: poll-xblock/src/xblock-utils/tests/unit/data/trans_django_template.txt
+msgid "Translate 2"
+msgstr "Tränsläté 2 Ⱡ'σяєм ιρѕυм ∂σłσя #"
+
+#: poll-xblock/src/xblock-utils/tests/unit/data/trans_django_template.txt
+#, python-format
+msgid ""
+"\n"
+"Multi-line translation\n"
+"with variable: %(name)s\n"
+msgstr ""
+"\n"
+"Mültï-lïné tränslätïön\n"
+"wïth värïäßlé: %(name)s\n"
+" Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢тєтυя #\n"
+
+#: poll-xblock/src/xblock-utils/xblockutils/templates/add_buttons.html
+msgid "Add New Component"
+msgstr "Àdd Néw Çömpönént Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмє#"
+
+#: poll-xblock/src/xblock-utils/xblockutils/templates/studio_edit.html
+msgid "None Available"
+msgstr "Nöné Àväïläßlé Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт#"
+
+#: poll-xblock/src/xblock-utils/xblockutils/templates/studio_edit.html
+msgid "Clear Value"
+msgstr "Çléär Välüé Ⱡ'σяєм ιρѕυм ∂σłσя #"
